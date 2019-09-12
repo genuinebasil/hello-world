@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just another repository with additional information getting committed to the read me page.
+
+Go github!
